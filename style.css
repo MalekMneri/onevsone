@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfefc;
+}
+
+.title {
+  color: rgb(90, 168, 231);
+  text-align: center;
+  margin-top: 100px;
+  font-family: sans-serif;
+}
+
+.subtitle {
+  color: rgb(163, 204, 238);
+  text-align: center;
+  margin-top: 20px;
+}
+
+.main-image {
+  margin-top: 20px;
+  text-align: center;
+}
